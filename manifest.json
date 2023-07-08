@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Save searched words",
+  "description": "save searched words to notion",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "worker.js"
+  }
+}
