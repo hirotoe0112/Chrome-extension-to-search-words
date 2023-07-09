@@ -1,0 +1,22 @@
+{
+  "name": "save-searched-words",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirotoe0112/Chrome-extension-to-search-words.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirotoe0112/Chrome-extension-to-search-words/issues"
+  },
+  "homepage": "https://github.com/hirotoe0112/Chrome-extension-to-search-words#readme",
+  "dependencies": {
+    "@notionhq/client": "^2.2.6"
+  }
+}
